@@ -1,0 +1,25 @@
+{
+  "name": "redux-offline-node.js-poc",
+  "version": "0.0.0",
+  "description": "Proof of concept to make redux-offline to work on Node.js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piranna/redux-offline-Node.js-PoC.git"
+  },
+  "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piranna/redux-offline-Node.js-PoC/issues"
+  },
+  "homepage": "https://github.com/piranna/redux-offline-Node.js-PoC#readme",
+  "dependencies": {
+    "@redux-offline/redux-offline": "^2.5.1",
+    "internet-available": "^1.0.0",
+    "redux": "^4.0.1",
+    "redux-persist-node-storage": "^1.0.2"
+  }
+}
