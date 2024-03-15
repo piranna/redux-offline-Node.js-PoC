@@ -1,0 +1,56 @@
+repo_name: piranna/redux-offline-Node.js-PoC
+report_id: 887b17189adeac301b0eac706413158c
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:11:51+00:00'
+requested_by: piranna
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/piranna/redux-offline-Node.js-PoC
+  detection_source: Repo Metadata
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/piranna/redux-offline-Node.js-PoC/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Jesús Leganés-Combarro 'piranna
+  last_updated_on: 2019-04-07 19:23:11.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/piranna/redux-offline-Node.js-PoC
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/piranna/redux-offline-Node.js-PoC/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Jesús Leganés-Combarro 'piranna
+  last_updated_on: 2019-04-07 19:23:11.000000000 Z
